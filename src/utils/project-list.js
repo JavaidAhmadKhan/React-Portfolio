@@ -1,6 +1,7 @@
 let project_list = [
   {
-    image: "https://drive.google.com/uc?id=1ZFbiXqnep2HGVEVIA8c-UQ-rR5NwYb9u",
+    image:
+      "https://drive.google.com/file/d/1JEy3QoBmgGIX7qESC_cixvlvJOPvIw_C/view?usp=sharing",
     title: "Online Clothing Store",
     des:
       "Full Stack Project using ReactJS and FIREBASE Development of new highly-responsive, web-based user interface Online payment implementation with stripe State Managment using Redux",

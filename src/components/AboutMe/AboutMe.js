@@ -26,7 +26,7 @@ const AboutMe = () => {
         <div className="subtitle">
           <h3>
             I m a Full-Stack Software developer | React Native developer. I like
-            to make stuff with code
+            to make stuff with code.
           </h3>
           <p>
             I build complex ERP's Webapps, Hybrid mobile apps! <br />
