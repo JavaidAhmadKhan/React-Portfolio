@@ -32,10 +32,7 @@ const Icons = () => {
         <GitHubIcon fontSize="large" />
       </Link>
 
-      <Link
-        href=" https://wa.me/9797550069?text=Thank%20You%20For%20Contacting%20Mr%20Javaid%20Khan"
-        target="_blank"
-      >
+      <Link href=" https://wa.me/9797550069" target="_blank">
         <WhatsAppIcon fontSize="large" />
       </Link>
     </div>
